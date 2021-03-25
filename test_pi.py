@@ -6,8 +6,8 @@ from datetime import datetime,timedelta
 import numpy as np
 
 ftx = ccxt.ftx({
-            'apiKey': 'Qiyh14Dwiay-VcT7DQOkKqAcM-8qKF-cOSGdjx7w',           # apiKey
-            'secret': 'ZQ1DncNUhthnphR38lDjO89Q7gu-SaQ8KXu3UVOl' })         # API Secret
+            'apiKey': 'xxxxxxxxxxx',           # apiKey
+            'secret': 'xxxxxxxxxxxxxx' })         # API Secret
 
 # =======================================================
 # Section 2 :  load data มาเก็บไว้ กรณีนี้จะเก็บเป็นระดับ 5 นาที เพื่อที่เวลาทดสอบจะได้ไม่ต้องโหลดใหม่บ่อยๆ
